@@ -12,7 +12,7 @@ intents.members = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 TOKEN = os.environ.get("DISCORD_TOKEN")
-ROLE_NAME = "hehe"
+ROLE_NAME = "naughty"
 CHANNEL_NAME = "vungoimora"
 TARGET_CHANNEL = "hehe"
 PASSWORD = "emyeucacanh"
